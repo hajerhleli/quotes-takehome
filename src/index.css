@@ -1,0 +1,35 @@
+:root {
+  /* GENERAL VARS */
+  --border-color: rgb(30, 73, 118);
+  --border-line-style: solid;
+  --border-line-width: 1px;
+  --border-radius: 8px;
+  --header-text-color: rgb(245, 245, 245);
+  --page-bg-color: rgb(10, 25, 41);
+  --primary-font-size: 16px;
+
+  /* BUTTON VARS */
+  --button-font-weight: 700;
+  --button-text-color: rgb(51, 153, 255);
+  --button-width: 320px;
+  --button-disabled-text-color: rgb(30, 73, 118);
+  --button-disabled-bg-color: darkgray;
+  --button-hover-bg-color: rgb(0, 30, 60);
+
+  /* QUOTE VARS */
+  --quote-bg-color: rgb(0, 30, 60);
+  --quote-text-color: rgb(245, 245, 245);
+  --quote-width: 320px;
+}
+
+* * {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+  background-color: var(--page-bg-color);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,22 @@
+{
+  "quotes": [
+    {
+      "id": 42024,
+      "quote": "This pull request has been automatically marked as stale. If this pull request is still relevant, please leave any comment (for example, bump), and we'll keep it open. We are sorry that we haven't been able to prioritize reviewing it yet. Your contribution is very much appreciated.",
+      "author": "Stale Pull Request Bot"
+    },
+    {
+      "id": 13377,
+      "quote": "This is a duplicate quote...",
+      "author": "Stack Overflow User"
+    },
+    {
+      "id": 11017,
+      "quote": "It works for me when running it locally...",
+      "author": "Software Engineer"
+    }
+  ],
+  "total": 3,
+  "skip": 0,
+  "limit": 30
+}
